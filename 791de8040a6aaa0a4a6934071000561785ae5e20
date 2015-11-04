@@ -22,6 +22,30 @@
       "revId": "791de8040a6aaa0a4a6934071000561785ae5e20",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f2f7f8d_058826c4",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 346,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2015-11-04T02:07:00Z",
+      "side": 0,
+      "message": "I know, this is a leftover from the previous tree.\nI remember there being a strange issue where the device wouldn\u0027t boot on ro.secure\u003d1, and I was too lazy to debug probably.\nThis definately needs to be looked into.",
+      "parentUuid": "1f2f7f8d_a51dd2be",
+      "range": {
+        "startLine": 346,
+        "startChar": 4,
+        "endLine": 346,
+        "endChar": 15
+      },
+      "revId": "791de8040a6aaa0a4a6934071000561785ae5e20",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
