@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_dfa1ab97",
+        "filename": "rootdir/etc/fstab.universal5433",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-01-12T20:34:47Z",
+      "side": 1,
+      "message": "put your f2fs entries before your ext4 entries or it\u0027ll break encryption",
+      "revId": "95c9440e247d4064333d3f5267a8bc2dc7c90a39",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
