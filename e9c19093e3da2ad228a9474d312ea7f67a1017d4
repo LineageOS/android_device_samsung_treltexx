@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_3fb6afdb",
+        "filename": "rootdir/etc/fstab.universal5433",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-01-12T20:53:35Z",
+      "side": 1,
+      "message": "Sorry, I should have been more clear. Both entries for /data need to be next to eachother (same with /cache) but the f2fs entry must come first. Example: https://github.com/CyanogenMod/android_device_motorola_victara/blob/cm-13.0/rootdir/etc/fstab.qcom#L7-L10",
+      "revId": "e9c19093e3da2ad228a9474d312ea7f67a1017d4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
